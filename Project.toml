@@ -1,0 +1,13 @@
+name = "ExampleRepository"
+uuid = "00c0a9d4-e1c5-4225-a121-30cb54d44bdc"
+authors = ["Weicheng-Ye <victoryeofphysics@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
